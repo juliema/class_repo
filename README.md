@@ -3,3 +3,5 @@
 ## introduction
 
 ### part 1
+
+``` git init ```
